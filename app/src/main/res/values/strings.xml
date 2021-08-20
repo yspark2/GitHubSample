@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHubSample</string>
+    <string name="hint">메세지를 입력하세요</string>
 </resources>
