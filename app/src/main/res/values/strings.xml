@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">GitHubSample</string>
     <string name="hint">메세지를 입력하세요</string>
+    <string name="menual">메뉴얼</string>
+    <string name="main_activity">메인 액티비티</string>
+    <string name="subActivity_exe">서브액티비티 실행</string>
+    <string name="number">넘버</string>
+    <string name="title">타이틀</string>
+    <string name="sub_activity">서브 액티비티</string>
 </resources>

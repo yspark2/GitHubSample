@@ -25,5 +25,9 @@ class MainActivity : AppCompatActivity() {
 			val formatTime = sdf.format(date)
 			Toast.makeText(this, "현재시간은 ${formatTime} 입니다.", Toast.LENGTH_SHORT).show()
 		}
+		binding.btnMenu.setOnClickListener{
+			val menuIntent = Intent(this, TotalMenu::class.java)
+			startActivity(menuIntent)
+		}
 	}
 }
